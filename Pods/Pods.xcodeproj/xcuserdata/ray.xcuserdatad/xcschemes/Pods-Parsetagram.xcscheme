@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1230"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "54F341A4FA50A319EF9744986F5961B0"
+               BlueprintIdentifier = "90D6E1B4C9337F1EBCFDEF477688EA04"
                BuildableName = "Pods_Parsetagram.framework"
                BlueprintName = "Pods-Parsetagram"
                ReferencedContainer = "container:Pods.xcodeproj">
